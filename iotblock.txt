@@ -11,6 +11,7 @@
 0.0.0.0 cdn.simpli.fi
 0.0.0.0 cf.iadsdk.apple.com
 0.0.0.0 config.samsungads.com
+0.0.0.0 cooper.logs.roku.com
 0.0.0.0 dainikbhaskar-ams.gscontxt.net
 0.0.0.0 eastads.simpli.fi
 0.0.0.0 edgesuite.net
@@ -23,6 +24,7 @@
 0.0.0.0 invitation.samsungiotcloud.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 lgad.cjpowercast.com
+0.0.0.0 liberty.logs.roku.com
 0.0.0.0 log.ezvizlife.com
 0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 news.iadsdk.apple.com
@@ -32,9 +34,11 @@
 0.0.0.0 ogma.iad.appboy.com
 0.0.0.0 osb.samsungqbe.com
 0.0.0.0 osb-apps.samsungqbe.com
+0.0.0.0 p.ads.roku.com
 0.0.0.0 rumcdn.geoedge.be
 0.0.0.0 samsungotn.net
 0.0.0.0 samsungrm.net
+0.0.0.0 scribe.logs.roku.com
 0.0.0.0 snaptu-mini.facebook.com
 0.0.0.0 stbanalytics.echostarbeta.com
 0.0.0.0 stbanalyticschy.echostarbeta.com
