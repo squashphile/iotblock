@@ -15,6 +15,7 @@
 0.0.0.0 dainikbhaskar-ams.gscontxt.net
 0.0.0.0 eastads.simpli.fi
 0.0.0.0 edgesuite.net
+0.0.0.0 external-msp1-1.xx.fbcdn.net
 0.0.0.0 footprint.net
 0.0.0.0 foresee.com
 0.0.0.0 gate.hockeyapp.net
@@ -26,6 +27,7 @@
 0.0.0.0 lgad.cjpowercast.com
 0.0.0.0 liberty.logs.roku.com
 0.0.0.0 log.ezvizlife.com
+0.0.0.0 metrics.icloud.com
 0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 news-events.apple.com
@@ -44,8 +46,11 @@
 0.0.0.0 stbanalyticschy.echostarbeta.com
 0.0.0.0 stbanalyticspvm.echostarbeta.com
 0.0.0.0 stocks-analytics-events.apple.com
+0.0.0.0 syndicate.twitter.com
 0.0.0.0 time.stdtime.gov.tw
 0.0.0.0 tracking.nextdoor.com
 0.0.0.0 us.ad.lgsmartad.com
 0.0.0.0 us.info.lgsmartad.com
+0.0.0.0 widgets.tree.com
+0.0.0.0 widgets.tree.com.cdn.cloudflare.net
 0.0.0.0 www.amazon.sa
